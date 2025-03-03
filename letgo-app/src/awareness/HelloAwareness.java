@@ -8,5 +8,6 @@ public class HelloAwareness {
 		System.out.println("하하하");
 		System.out.println("car2");
 		System.out.println("car3");
+		System.out.println("note");
 	}
 }
