@@ -9,5 +9,6 @@ public class HelloAwareness {
 		System.out.println("car2");
 		System.out.println("car3");
 		System.out.println("note");
+		System.out.println("oneness");
 	}
 }
