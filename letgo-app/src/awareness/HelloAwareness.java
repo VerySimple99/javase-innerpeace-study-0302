@@ -17,7 +17,7 @@ public class HelloAwareness {
 		System.out.println("oneness");
 
 		Car car = new Car("k5",3500);
-		System.out.println(car.getName()+" "+car.getPrice());
+		System.out.println(car.getName()+" "+car.getPrice()+" volvo");
 
 		Note note = new Note();
 		System.out.println("note "+note);
