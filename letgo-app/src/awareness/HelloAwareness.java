@@ -21,6 +21,9 @@ public class HelloAwareness {
 
 		Note note = new Note();
 		System.out.println("note "+note);
+		
+		House house = new House();
+		System.out.println("house : "+ house);
 
 	}
 }
