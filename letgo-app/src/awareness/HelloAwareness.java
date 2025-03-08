@@ -17,10 +17,15 @@ public class HelloAwareness {
 		System.out.println("oneness");
 
 		Car car = new Car("k5",3500);
-		System.out.println(car.getName()+" "+car.getPrice());
+		System.out.println(car.getName()+" "+car.getPrice()+" volvo");
+
 
 		Note note = new Note("매순간 감사");
 		System.out.println("note "+note+" "+note.getTitle());
+		
+		House house = new House();
+		System.out.println("house : "+ house);
+
 
 	}
 }
