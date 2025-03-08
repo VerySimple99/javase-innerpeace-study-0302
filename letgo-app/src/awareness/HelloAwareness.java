@@ -3,6 +3,7 @@ package awareness;
 
 import model.Car;
 import model.Note;
+import model.Oneness;
 
 
 public class HelloAwareness {
@@ -26,6 +27,9 @@ public class HelloAwareness {
 		House house = new House(); 
 		System.out.println("house : "+ house);
 
+		Oneness oneness = new Oneness();
+		System.out.println("oneness :"+ oneness);
+  
 
 	}
 }
