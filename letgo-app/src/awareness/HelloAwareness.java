@@ -2,6 +2,7 @@ package awareness;
 
 
 import model.Car;
+import model.House;
 import model.Note;
 import model.Oneness;
 

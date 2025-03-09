@@ -1,4 +1,4 @@
-package awareness;
+package model;
 
 public class House {
 
