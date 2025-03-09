@@ -5,6 +5,7 @@ import model.Car;
 import model.House;
 import model.Note;
 import model.Oneness;
+import model.SimpleLife;
 
 
 public class HelloAwareness {
@@ -31,6 +32,7 @@ public class HelloAwareness {
 		Oneness oneness = new Oneness();
 		System.out.println("oneness :"+ oneness);
   
-
+		SimpleLife simpleLife = new SimpleLife("지금에 있음");
+		System.out.println(simpleLife.getTitle());
 	}
 }
