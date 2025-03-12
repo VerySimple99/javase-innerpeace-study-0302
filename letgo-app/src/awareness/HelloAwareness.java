@@ -23,12 +23,11 @@ public class HelloAwareness {
 		System.out.println(car.getName()+" "+car.getPrice()+" volvo");
 
 
-		Note note = new Note("매순간 감사"); 
-		System.out.println("note "+note+" "+note.getTitle());
+		Note note = new Note("매순간 감사",77);
+		System.out.println("note "+note+" "+note.getTitle()+" "+note.getPageNo());
 
 		House house = new House("신봉");
 		System.out.println("house : "+ house + house + house.getAddress());
-
 
 		Oneness oneness = new Oneness();
 		System.out.println("oneness :"+ oneness);
