@@ -2,7 +2,10 @@ package awareness;
 
 
 import model.Car;
+import model.House;
 import model.Note;
+import model.Oneness;
+import model.SimpleLife;
 
 
 public class HelloAwareness {
@@ -22,10 +25,14 @@ public class HelloAwareness {
 
 		Note note = new Note("매순간 감사",77);
 		System.out.println("note "+note+" "+note.getTitle()+" "+note.getPageNo());
-		
-		House house = new House();
-		System.out.println("house : "+ house);
 
+		House house = new House("신봉");
+		System.out.println("house : "+ house + house + house.getAddress());
 
+		Oneness oneness = new Oneness();
+		System.out.println("oneness :"+ oneness);
+  
+		SimpleLife simpleLife = new SimpleLife("지금에 있음");
+		System.out.println(simpleLife.getTitle());
 	}
 }
