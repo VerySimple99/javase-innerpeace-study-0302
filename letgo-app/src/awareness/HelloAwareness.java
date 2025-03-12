@@ -20,8 +20,8 @@ public class HelloAwareness {
 		System.out.println(car.getName()+" "+car.getPrice()+" volvo");
 
 
-		Note note = new Note("매순간 감사");
-		System.out.println("note "+note+" "+note.getTitle());
+		Note note = new Note("매순간 감사",77);
+		System.out.println("note "+note+" "+note.getTitle()+" "+note.getPageNo());
 		
 		House house = new House();
 		System.out.println("house : "+ house);
