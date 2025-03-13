@@ -29,8 +29,8 @@ public class HelloAwareness {
 		House house = new House("신봉");
 		System.out.println("house : "+ house + house + house.getAddress());
 
-		Oneness oneness = new Oneness();
-		System.out.println("oneness :"+ oneness);
+		Oneness oneness = new Oneness("우연은 필연");
+		System.out.println("oneness :"+ oneness+" message:"+oneness.getMessage());
   
 		SimpleLife simpleLife = new SimpleLife("지금에 있음");
 		System.out.println(simpleLife.getTitle());
