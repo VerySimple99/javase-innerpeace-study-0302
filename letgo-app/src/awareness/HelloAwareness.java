@@ -20,7 +20,7 @@ public class HelloAwareness {
 		System.out.println("oneness");
 
 		Car car = new Car("k5",3500);
-		System.out.println(car.getName()+" "+car.getPrice()+" volvo");
+		System.out.println(car.getName()+" "+car.getPrice()+" k5");
 
 
 		Note note = new Note("매순간 감사",77);
