@@ -31,11 +31,10 @@ public class HelloAwareness {
 
 		Oneness oneness = new Oneness("우연은 필연");
 		System.out.println("oneness :"+ oneness+" message:"+oneness.getMessage());
-  
-		SimpleLife simpleLife = new SimpleLife("지금에 있음");
-		System.out.println(simpleLife.getTitle());
-		
-		System.out.println("joy of being");
+
+		SimpleLife simpleLife = new SimpleLife("지금에 있음","joy of being");
+		System.out.println(simpleLife.getTitle()+" "+simpleLife.getContent());
+
 	}
 }
 
