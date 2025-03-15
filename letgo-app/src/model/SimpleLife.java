@@ -2,10 +2,17 @@ package model;
 
 public class SimpleLife {
 	private String title;
-
+	private String content;
+	
 	public SimpleLife(String title) {
 		super();
 		this.title = title;
+	}
+	
+	public SimpleLife(String title, String content) {
+		super();
+		this.title = title;
+		this.content = content;
 	}
 
 	public String getTitle() {
@@ -14,6 +21,14 @@ public class SimpleLife {
 
 	public void setTitle(String title) {
 		this.title = title;
+	}
+
+	public String getContent() {
+		return content;
+	}
+
+	public void setContent(String content) {
+		this.content = content;
 	}
 	
 }
