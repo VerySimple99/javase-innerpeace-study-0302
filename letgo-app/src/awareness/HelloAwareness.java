@@ -36,6 +36,7 @@ public class HelloAwareness {
 		System.out.println(simpleLife.getTitle());
 		
 		System.out.println("joy of being");
+		System.out.println("beautiful life");
 	}
 }
 
