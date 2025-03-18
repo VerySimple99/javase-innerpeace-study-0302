@@ -35,12 +35,12 @@ public class HelloAwareness {
 		SimpleLife simpleLife = new SimpleLife("지금에 있음");
 		System.out.println(simpleLife.getTitle());
 		
-<<<<<<< Updated upstream
+
 		System.out.println("joy of being");
 		System.out.println("beautiful life");
-=======
+
 		System.out.println("volvo");
->>>>>>> Stashed changes
+
 	}
 }
 
