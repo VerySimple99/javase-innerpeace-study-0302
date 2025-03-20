@@ -26,7 +26,7 @@ public class HelloAwareness {
 		Note note = new Note("매순간 감사"); 
 		System.out.println("note "+note+" "+note.getTitle());
 
-		House house = new House("신봉");
+		House house = new House("신봉동");
 		System.out.println("house : "+ house + house + house.getAddress());
 
 
