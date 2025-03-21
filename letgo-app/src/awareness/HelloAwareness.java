@@ -23,7 +23,7 @@ public class HelloAwareness {
 		System.out.println(car.getName()+" "+car.getPrice()+" k5");
 
 
-		Note note = new Note("매순간 감사",77);
+		Note note = new Note("매순간 감사 내면의 평화",77);
 		System.out.println("note "+note+" "+note.getTitle()+" "+note.getPageNo());
 
 		House house = new House("신봉동");
