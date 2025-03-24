@@ -29,7 +29,7 @@ public class HelloAwareness {
 		House house = new House("신봉동");
 		System.out.println("house : "+ house + house + house.getAddress());
 
-		Oneness oneness = new Oneness("우연은 필연");
+		Oneness oneness = new Oneness("우연은 필연 Flow 그저 자연스럽게 흘러가라");
 		System.out.println("oneness :"+ oneness+" message:"+oneness.getMessage());
   
 		SimpleLife simpleLife = new SimpleLife("지금에 있음");
