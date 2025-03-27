@@ -41,7 +41,7 @@ public class HelloAwareness {
 
 		System.out.println("volvo");
 		
-		System.out.println("stillness");
+		System.out.println("stillness awareness");
 
 	}
 }
