@@ -40,6 +40,8 @@ public class HelloAwareness {
 		System.out.println("beautiful life");
 
 		System.out.println("volvo");
+		
+		System.out.println("stillness");
 
 	}
 }
