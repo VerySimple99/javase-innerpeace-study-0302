@@ -41,7 +41,9 @@ public class HelloAwareness {
 
 		System.out.println("volvo");
 		
+
 		System.out.println("stillness awareness flow life");
+		System.out.println("flow life : 그저 자연스럽게 흘러라");
 
 	}
 }
