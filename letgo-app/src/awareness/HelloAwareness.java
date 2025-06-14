@@ -39,12 +39,20 @@ public class HelloAwareness {
 		System.out.println("joy of being");
 		System.out.println("beautiful life");
 
+
+		System.out.println("oneness surrender trust");
+
 		System.out.println("volvo");
 		
 		System.out.println("stillness awareness");
 		
 		System.out.println("flow life : 그저 자연스럽게 흘러라");
 
+
 	}
 }
+
+
+
+
 
