@@ -39,7 +39,7 @@ public class HelloAwareness {
 		System.out.println("joy of being");
 		System.out.println("beautiful life");
 
-		System.out.println("volvo");
+		System.out.println("oneness surrender trust");
 
 	}
 }
